@@ -6,8 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
-    <script src="{{url('js/bootstrap.min.css')}}"></script>
-    <title>Lentrix CourseWare</title>
+    <script src="{{url('js/jquery.min.js')}}"></script>
+    <script src="{{url('js/popper.min.js')}}"></script>
+    <script src="{{url('js/bootstrap.min.js')}}"></script>
+    <title>CourseWare</title>
 </head>
 <body>
 
@@ -18,7 +20,7 @@
     </div>
 
     <footer>
-        Copyright &copy; 2020. Lentrix CourseWare, Inc. <br>
+        Copyright &copy; 2020. CourseWare, Inc. <br>
         All rights reversed.
     </footer>
 </body>
